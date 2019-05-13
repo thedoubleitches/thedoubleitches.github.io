@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://thedoubleitches.github.io
-baseurl: "./"
+url: https://github.com/thedoubleitches/thedoubleitches.github.io
+baseurl:
 
 # language attribute in <html> element.
 lang: en

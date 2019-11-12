@@ -2,7 +2,7 @@ backend:
   name: github
   repo: https://github.com/thedoubleitches/thedoubleitches.github.io
   branch: master
-  site_domain: ecstatic-poitras-362ffd.netlify.com
+  site_domain: https://thedoubleitches.world
 
 media_folder: "images/uploads"
 

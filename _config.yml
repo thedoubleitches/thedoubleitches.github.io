@@ -82,33 +82,6 @@ display-next-prev-post: false
 # Leave empty if you don't want comments on post pages.
 disqus-shortname:
 
-
-################
-# SOCIAL ICONS #
-################
-
-# Use a complete url here, including http:// and such. Requiring just usernames
-# has been considered, but this is way more customizable.
-twitter:
-youtube:
-instagram:
-tumblr:
-facebook:
-google-plus:
-reddit:
-soundcloud:
-medium:
-linkedin:
-github:
-behance:
-codepen:
-dribbble:
-trello:
-stack-overflow:
-bitcoin:
-paypal:
-
-
 #####################
 # CUSTOMIZABLE TEXT #
 #####################
@@ -150,4 +123,10 @@ defaults:
       layout: "post"
       excerpt_separator: "<!--more-->"
 plugins:
+        - github-pages
         - jekyll-admin
+jekyll_admin:
+        hidden_links:
+                - pages
+                - staticfiles
+                - datafiles

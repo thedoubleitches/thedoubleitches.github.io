@@ -125,8 +125,3 @@ defaults:
 plugins:
         - github-pages
         - jekyll-admin
-jekyll_admin:
-        hidden_links:
-                - pages
-                - staticfiles
-                - datafiles

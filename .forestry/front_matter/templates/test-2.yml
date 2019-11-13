@@ -1,6 +1,11 @@
 ---
 label: Test 2
 hide_body: false
-fields: []
+fields:
+- name: heyworld
+  type: text
+  config:
+    required: false
+  label: heyworld
 pages:
 - _posts/Heyworld.md

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: NOnonsense-1
-author: jorgen
+author: hanzou
 
 ---
 #### **Hello world**

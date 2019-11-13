@@ -11,26 +11,22 @@ description:
   #subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 authors:
-      sharathdt:
-        display_name: Sharath Kumar
-        about: Sharath is a full-time chess coach, part-time web designer and a hobby blogger. He posts his Web Development blogs in <a href="http://blog.webjeda.com" >Webjeda Blog</a></p>
-        email: mailto:info@dxartist.com
-        web: http://webjeda.com/
-        facebook: https://www.facebook.com/sharu725
-        twitter: https://twitter.com/sharathdt
-        github: https://github.com/sharu725/
-        gravatar: https://s.gravatar.com/avatar/73c67b9ce8685bfb9e906a5865c0aef8?s=80
-
-
-        sampaths:
-        display_name: Sampath Sirimane
-        about: Sampath is a blogger, story and novel writer for a damous daily news paper.
-        email: mailto: sirimane@gmail.com
-        web: http://samapathsirimane.com
-        facebook: https://www.facebook.com/sirimane.sampath
-        twitter: https://twitter.com/sirimane
-        github: https://github.com/sirimane/
-        gravatar: https://raw.githubusercontent.com/sharu725/lanyon/gh-pages/public/img/samapths.jpg        
+  hanzou:
+    name: Hanzou Hattori
+    display_name: Hanzou
+    gravatar: c66919cb194f96c696c1da0c47354a6a
+    email: hanzou@company.com
+    web: http://company.com
+    twitter: company
+    github: hhattori
+  jorgen:
+    name: Jörgen Mortensen
+    display_name: Jörgen
+    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
+    email: jorgen@company.com
+    web: http://company.com
+    twitter: company
+    github: jorgenm
 
 url: https://github.com/thedoubleitches/thedoubleitches.github.io
 baseurl:

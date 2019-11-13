@@ -18,7 +18,7 @@ layout: default
       <small><em>{{ site.var_guest_post_by }}: {{ page.author.name }} {{ page.author.info }}</em></small>
     {% else %}
       {% if site.authors %}
-        <small><em>{{ site.var_post_by }}: {{ site.authors }} {{ site.authors.info }}</em></small>
+        <small><em>{{ site.var_post_by }}: {{ site.authors[page.author] }} {{ site.authors.info }}</em></small>
       {% endif %}
     {% endif %}
   {% endif %}

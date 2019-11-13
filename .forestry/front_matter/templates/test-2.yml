@@ -7,5 +7,3 @@ fields:
   config:
     required: false
   label: heyworld
-pages:
-- _posts/2019-11-13-kokoro.md

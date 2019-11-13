@@ -20,9 +20,8 @@ home: true
         {% if post.author.name %}
           {{ post.author.name }} •
         {% else %}
-          {% if site.authors[page.author] %}
-            {{ site.authors[page.author] }} •
-          {% endif %}
+          {% assign author = site.authors[page.author] %}
+            {{ author.display_name }} •
         {% endif %}
       {% endif %}
       {{ post.date | date: site.date_format }} • {{ read-time }}</span>

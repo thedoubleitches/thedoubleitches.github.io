@@ -10,8 +10,8 @@ description:
   # Description of your site. This will show up on the front page.
   #subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
-#author:
- # name.html: site.data.authors # Change this!
+author:
+  name.html: site.data.authors # Change this!
 
   # Necessary for contact page
   email: contact@thedoubleitches.world # Change this!

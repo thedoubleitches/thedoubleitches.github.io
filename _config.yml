@@ -10,15 +10,27 @@ description:
   # Description of your site. This will show up on the front page.
   #subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
-author:
-  name.html: site.data.authors # Change this!
+authors:
+      sharathdt:
+        display_name: Sharath Kumar
+        about: Sharath is a full-time chess coach, part-time web designer and a hobby blogger. He posts his Web Development blogs in <a href="http://blog.webjeda.com" >Webjeda Blog</a></p>
+        email: mailto:info@dxartist.com
+        web: http://webjeda.com/
+        facebook: https://www.facebook.com/sharu725
+        twitter: https://twitter.com/sharathdt
+        github: https://github.com/sharu725/
+        gravatar: https://s.gravatar.com/avatar/73c67b9ce8685bfb9e906a5865c0aef8?s=80
 
-  # Necessary for contact page
-  email: contact@thedoubleitches.world # Change this!
 
-  # Optional text (html) to display after author name. Leave empty if you don't
-  # want it.
-  info:
+        sampaths:
+        display_name: Sampath Sirimane
+        about: Sampath is a blogger, story and novel writer for a damous daily news paper.
+        email: mailto: sirimane@gmail.com
+        web: http://samapathsirimane.com
+        facebook: https://www.facebook.com/sirimane.sampath
+        twitter: https://twitter.com/sirimane
+        github: https://github.com/sirimane/
+        gravatar: https://raw.githubusercontent.com/sharu725/lanyon/gh-pages/public/img/samapths.jpg        
 
 url: https://github.com/thedoubleitches/thedoubleitches.github.io
 baseurl:

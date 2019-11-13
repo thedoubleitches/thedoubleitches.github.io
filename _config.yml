@@ -12,9 +12,9 @@ description:
 
 authors:
   H1:
-          display_name: H₁
+          display_name: "H₁"
   H2:
-          display_name: H₂
+          display_name: "H₂"
 
 url: https://github.com/thedoubleitches/thedoubleitches.github.io
 baseurl:

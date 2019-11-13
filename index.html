@@ -20,7 +20,7 @@ home: true
         {% if post.author.name %}
           {{ post.author.name }} •
         {% else %}
-          {% assign author = site.authors[page.author] %}
+          {% assign author = site.authors[post.author] %}
             {{ author.display_name }} •
         {% endif %}
       {% endif %}

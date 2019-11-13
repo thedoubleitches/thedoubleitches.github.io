@@ -20,8 +20,8 @@ home: true
         {% if post.author.name %}
           {{ post.author.name }} •
         {% else %}
-          {% if site.author.name %}
-            {{ site.author.name }} •
+          {% if site.data.authors %}
+            {{ site.data.authors }} •
           {% endif %}
         {% endif %}
       {% endif %}

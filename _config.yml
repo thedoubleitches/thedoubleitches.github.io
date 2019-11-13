@@ -11,10 +11,10 @@ description:
   #subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 authors:
-  Hiba:
-          display_name: H1
-  Hicham:
-          display_name: H2
+  H1:
+          display_name: H₁
+  H2:
+          display_name: H₂
 
 url: https://github.com/thedoubleitches/thedoubleitches.github.io
 baseurl:

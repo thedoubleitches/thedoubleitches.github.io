@@ -3,9 +3,9 @@ title: Letter to a stranger
 author: H1
 
 ---
-I woke up this morning with your image stuck between my lashes and the taste of your name on my lips, this presence of yours that I generate never fails to brighten up my mood only for it to somber when the realization hits that you were never really there. 
+**_I woke up this morning with your image stuck between my lashes and the taste of your name on my lips, this presence of yours that I generate never fails to brighten up my mood only for it to somber when the realization hits that you were never really there._**
 
-It all started with a random joke that wasn't meant for me; but after all, nothing was ever meant for me. Late-night talks and good mornings that should have never happened. Small things that I over felt and over lived, like a child trying but failing to keep grownup shoes on, shoes that looked very fancy but caused injuries. 
+It all started with a random joke that wasn't meant for me; but after all, nothing was ever meant for me. Late-night talks and good mornings that should have never happened. Small things that I over felt and over lived, like a child trying but failing to keep grownup shoes on, shoes that looked very fancy but caused injuries.
 
 You were a myth never meant to be brought into reality, and I was never meant to believe in it, not even for a fraction of a second. You were a coincidence that was never meant to occur, but it did and now I need to deal with the debris it left behind.![](/uploads/IMG-20191113-WA0032.jpg)
 

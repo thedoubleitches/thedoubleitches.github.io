@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-published: false
 
 ---
 We started this blog on a whim. An itch to say the unsaid made this blog emerge to existence.

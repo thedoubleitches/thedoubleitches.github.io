@@ -7,7 +7,6 @@ sections:
 - type: document
   path: "."
   label: Documents
-  match: "**/*"
 - type: heading
   label: Sidebar
 - type: jekyll-pages

@@ -16,6 +16,15 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: summary
+  label: summary (your first paragraph goes here as well)
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: date
 pages:
 - _posts/Letter to a stranger.md

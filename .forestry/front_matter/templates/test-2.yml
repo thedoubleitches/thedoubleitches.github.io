@@ -1,9 +1,0 @@
----
-label: Test 2
-hide_body: false
-fields:
-- name: heyworld
-  type: text
-  config:
-    required: false
-  label: heyworld

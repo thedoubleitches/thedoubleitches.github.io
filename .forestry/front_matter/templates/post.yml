@@ -1,0 +1,17 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- name: resume
+  type: text
+  config:
+    required: false
+  label: resume
+pages:
+- _posts/Letter to a stranger.md

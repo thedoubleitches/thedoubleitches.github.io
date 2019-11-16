@@ -8,10 +8,10 @@ fields:
 - type: text
   name: author
   label: author
-- name: description
+- name: resume
   type: text
   config:
     required: false
-  label: description
+  label: resume
 pages:
 - _posts/Letter to a stranger.md

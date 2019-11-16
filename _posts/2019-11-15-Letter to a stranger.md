@@ -5,7 +5,6 @@ summary: 'I woke up this morning with your image stuck between my lashes and the
   of your name on my lips, this presence of yours that I generate never fails to brighten
   up my mood only for it to somber when the realization hits that you were never really
   there. '
-date: 2019-11-14 23:00:00 +0000
 
 ---
 I woke up this morning with your image stuck between my lashes and the taste of your name on my lips, this presence of yours that I generate never fails to brighten up my mood only for it to somber when the realization hits that you were never really there.
@@ -14,7 +13,7 @@ It all started with a random joke that wasn't meant for me; but after all, nothi
 
 You were a myth never meant to be brought into reality, and I was never meant to believe in it, not even for a fraction of a second. You were a coincidence that was never meant to occur, but it did and now I need to deal with the debris it left behind.
 
-![](/uploads/IMG-20191113-WA0032.jpg)
+![width=100%](/uploads/IMG-20191113-WA0032.jpg)
 
 You told me you had a bad memory and I vowed to remember twice, once for you and once for my own sake. I took what I could of you and carefully wrapped the whole thing in the folds of my soul, so much it was all precious. I remember still the dark traits of your face, parts of it concealed by the shadow and the ones that shone brightly in contact with sunbeams. I remember how you smile, how your eyes crinkle and how my heart falters in response.
 

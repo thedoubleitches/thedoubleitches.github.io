@@ -1,6 +1,11 @@
 ---
 title: Letter to a stranger
 author: H1
+summary: 'I woke up this morning with your image stuck between my lashes and the taste
+  of your name on my lips, this presence of yours that I generate never fails to brighten
+  up my mood only for it to somber when the realization hits that you were never really
+  there. '
+date: 2019-11-14 23:00:00 +0000
 
 ---
 I woke up this morning with your image stuck between my lashes and the taste of your name on my lips, this presence of yours that I generate never fails to brighten up my mood only for it to somber when the realization hits that you were never really there.

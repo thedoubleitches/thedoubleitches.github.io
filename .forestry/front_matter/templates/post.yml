@@ -8,3 +8,5 @@ fields:
 - type: text
   name: body
   label: body
+pages:
+- _posts/Letter to a stranger.md

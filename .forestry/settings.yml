@@ -1,7 +1,7 @@
 ---
-new_page_extension: md
+new_page_extension: html
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
@@ -24,7 +24,7 @@ build:
   preview_env:
   - JEKYLL_ENV=staging
   preview_output_directory: _site
-  install_dependencies_command: bundle install --full-index --path vendor/bundle
+  install_dependencies_command: bundle update sass
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   working_dir: "/srv"

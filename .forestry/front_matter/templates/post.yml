@@ -3,10 +3,15 @@ label: Post
 hide_body: false
 fields:
 - type: text
-  name: description
-  label: description
+  name: title
+  label: title
 - type: text
-  name: body
-  label: body
+  name: author
+  label: author
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
 pages:
 - _posts/Letter to a stranger.md

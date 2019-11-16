@@ -3,6 +3,10 @@ title: Letter to a stranger
 author: H1
 description: ''
 body: ''
+resume: I woke up this morning with your image stuck between my lashes and the taste
+  of your name on my lips, this presence of yours that I generate never fails to brighten
+  up my mood only for it to somber when the realization hits that you were never really
+  there.
 
 ---
 I woke up this morning with your image stuck between my lashes and the taste of your name on my lips, this presence of yours that I generate never fails to brighten up my mood only for it to somber when the realization hits that you were never really there.

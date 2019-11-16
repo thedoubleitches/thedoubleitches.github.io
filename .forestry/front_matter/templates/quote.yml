@@ -1,7 +1,4 @@
 ---
 label: Quote
 hide_body: false
-fields:
-- type: text
-  name: subtitle
-  label: subtitle
+fields: []

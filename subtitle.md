@@ -2,4 +2,8 @@
 published: false
 
 ---
- hello hiba, here you write a daily quote.
+<div class="subtitle">
+  <p>
+	hello hiba, here you write a daily quote.
+  </p>
+</div>

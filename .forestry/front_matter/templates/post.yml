@@ -16,6 +16,6 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: summary
+  label: summary (your first paragraph goes here as well)
 pages:
 - _posts/Letter to a stranger.md

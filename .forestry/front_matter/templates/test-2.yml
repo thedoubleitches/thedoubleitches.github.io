@@ -2,8 +2,10 @@
 label: Test 2
 hide_body: false
 fields:
-- name: heyworld
-  type: text
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
   config:
-    required: false
-  label: heyworld
+    min: 
+    max: 

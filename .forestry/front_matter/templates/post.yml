@@ -8,10 +8,14 @@ fields:
 - type: text
   name: author
   label: author
-- name: resume
-  type: text
+- name: summary
+  type: textarea
+  default: ''
   config:
-    required: false
-  label: resume
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: summary
 pages:
 - _posts/Letter to a stranger.md

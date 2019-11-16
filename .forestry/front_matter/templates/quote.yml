@@ -1,0 +1,10 @@
+---
+label: Quote
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: home
+  label: home

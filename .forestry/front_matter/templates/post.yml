@@ -17,3 +17,5 @@ fields:
     schema:
       format: markdown
   label: summary (your first paragraph goes here as well)
+pages:
+- _posts/a-dark-abyss.md

@@ -9,7 +9,7 @@ It's dark today, the floor is cold and hard and my head is pounding from all the
 
 I was four and you used to hold my hand, it always enveloped mine tightly and kept the cold and harshness away. Mornings meant I got to ride in the car with you and we'd take a road with no activity -the only one we could take- and I'll get to hold the steering wheel. You used to laugh at my confused face when you told me letting go of the steering wheel doesn't mean the car will crash. And I would laugh anxiously in return.
 
-!\[\](/uploads/IMG-20191114-WA0041.jpg)
+![](/uploads/IMG-20191114-WA0041.jpg)
 
 The car never crashed but my life did when you decided you will never steer it or even get close to it.
 

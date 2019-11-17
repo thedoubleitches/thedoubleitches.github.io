@@ -1,8 +1,8 @@
 ---
 title: A dark abyss
 author: H1
-summary: It's dark today, the floor is cold and hard and my head is pounding from
-  all the tears I shed these past fifteen years.
+summary: 'It's dark today, the floor is cold and hard and my head is pounding from
+  all the tears I shed these past fifteen years.'
 
 ---
 It's dark today, the floor is cold and hard and my head is pounding from all the tears I shed these past fifteen years.

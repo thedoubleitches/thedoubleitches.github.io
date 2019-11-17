@@ -17,3 +17,5 @@ fields:
     schema:
       format: markdown
   label: summary (your first paragraph goes here as well)
+pages:
+- _posts/2019-11-17-letter-to-a-stranger.md

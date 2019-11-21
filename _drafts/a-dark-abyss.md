@@ -7,6 +7,7 @@ summary: Some days are brighter than others, some days I wake up okay with who I
   ground and the other one hanging in the air. Today is not one of them.
 
 ---
+
 Some days are brighter than others, some days I wake up okay with who I am, not wishing I was dead. These are days I don't want to hurt myself nor do I want to experience the feeling of standing way above everything with one foot on solid ground and the other one hanging in the air. Today is not one of them.
 
 This is a day I want to detach myself from the bed but my head is clouded, heavy streams of fog obscure it, and an enormous weight is tying me to my place, weighing me down, and I'm not sure if I want to fight, or if I can fight. It shifts a little allowing me to stand up, but it doesn't leave, it clings to my body like a shadow.

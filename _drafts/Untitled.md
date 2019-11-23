@@ -1,5 +1,5 @@
 ---
-title: Title to be decided
+title: Chasing sanity
 author: H1
 summary: Some days are brighter than others, some days I wake up okay with who I am,
   not wishing I was dead. These are days I don't want to hurt myself nor do I want

@@ -23,4 +23,16 @@ His back is bent with burdens others put on it, he walks absent-mindedly, not se
 
 He keeps looking around and stops at an empty corner, closes his eyes for a little over a blink, clearing them up from whatever image has stuck to them, to no avail.
 
-He can see her again, she hasn't made an appearance in so long that he thought she left never to return, so long that every night, he shuts his eyes tight and wills his mind to bring him back her image, and every night he fails, his eyes shedding unspent tears and broken promises. She is here again, and so is the feeling, and the pain. 
+![](/uploads/IMG-20191113-WA0018.jpg)
+
+He can see her again, she hasn't made an appearance in so long that he thought she left never to return, so long that every night, he shuts his eyes tight and wills his mind to bring him back her image, and every night he fails, his eyes shedding unspent tears and broken promises. She is here again, and so is the feeling, and the pain.
+
+She left his existence the same way she initially entered it, like the flutter of butterfly wings that ended by stirring up a hurricane he got lost in.
+
+Now she, her trace is here, the smell of her favorite perfume, the swish of her hair when she puts a lock of it behind her ear, the sound of her steps that come off as ones engaged in a slow dance at times, and a frenzy at others.
+
+She's back and her voice promises to lead him to her, she's singing a lullaby that drops him right into the arms of sleep and he tries to stay awake because he needs to find its source, he needs to find her and ask her to justify her departure.
+
+She could have stayed and continued to sprinkle a confetti of light and colors over his life.
+
+He whispers to her shadow to take him to her but where she is is no place for warm bodies, and he curses the blood running through his veins and the cold dirt that would never warm her body up.

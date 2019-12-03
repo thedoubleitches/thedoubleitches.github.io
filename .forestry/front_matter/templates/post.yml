@@ -18,8 +18,8 @@ fields:
       format: markdown
   label: summary (your first paragraph goes here as well)
 pages:
-- _posts/2019-12-02-tribute.md
 - _posts/experimenting-with-words.md
+- _posts/2019-12-02-tribute.md
 - _posts/2019-11-23-Chasing sanity.md
 - _posts/noneyet.md
 - _posts/2019-11-17-a-dark-abyss.md

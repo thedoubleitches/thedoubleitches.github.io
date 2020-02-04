@@ -7,6 +7,8 @@ summary: New days ought to mean good things, if a good day doesn't bring good th
   a child's memories.
 
 ---
+![](/uploads/IMG-20200114-WA0006.jpg)
+
 New days ought to mean good things, if a good day doesn't bring good things, it isn't new at all. A smell of newly baked bread and hearty dishes hangs about the air, but the bird is outside and it wants to spread its wings and take me over a child's memories.
 
 I see her in her four-year-old body, huddled against her mother and siblings in one small room, it's cold and they're all used to sleep together because all they got is each other. He calls, and a lump rises to her throat when he asks to talk to her, she realizes then that she would always have a problem talking on the phone. He asks about her, and she asks what matters the most to her: when are you coming back? On the weekend, he says. Comes the weekend and he doesn't show up, two men come to their door instead and her too big a brain worries that they're bringing bad news about him. They don't, they're here to take some of his things to him because they're going some nice place, they're his friends.
